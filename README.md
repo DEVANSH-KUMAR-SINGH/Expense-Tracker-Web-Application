@@ -59,15 +59,15 @@ It allows users to record daily expenses, update entries, and view insightful an
 
 ## 🧠 Learnings & Concepts Gained
 
-✔️ Building a full-stack Python application (Frontend + Backend + DB)
-✔️ Designing and consuming REST APIs
-✔️ Implementing CRUD operations with MySQL
-✔️ Data aggregation and analytics queries
-✔️ Structuring a modular Streamlit application
-✔️ Using Pydantic models for data validation
-✔️ Implementing logging for debugging & monitoring
-✔️ Working with virtual environments & dependency management
-✔️ Writing test-ready and scalable project architecture
+- ✔️ Building a full-stack Python application (Frontend + Backend + DB)
+- ✔️ Designing and consuming REST APIs
+- ✔️ Implementing CRUD operations with MySQL
+- ✔️ Data aggregation and analytics queries
+- ✔️ Structuring a modular Streamlit application
+- ✔️ Using Pydantic models for data validation
+- ✔️ Implementing logging for debugging & monitoring
+- ✔️ Working with virtual environments & dependency management
+- ✔️ Writing test-ready and scalable project architecture
 
 ---
 
